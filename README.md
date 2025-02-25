@@ -1,2 +1,1 @@
-# minbedomning
-Spelregler 2025
+# nextaction
